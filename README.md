@@ -1,12 +1,78 @@
-# React + Vite
+# 📘 react-vite-todo-app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and modern **To-Do List** web application built using **React** and **Vite**.  
+It allows users to manage daily tasks efficiently with an intuitive interface and local storage support.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔧 Technologies Used
 
-## Expanding the ESLint configuration
+- ⚛️ React
+- ⚡ Vite
+- 🧠 JavaScript (ES6+)
+- 🎨 HTML & CSS
+- 🗂️ LocalStorage
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+- Add, edit, and delete tasks
+- Mark tasks as completed
+- Task list persists using localStorage
+- Clean and responsive UI
+- Organized component structure
+
+---
+🧾 Project Structure
+react-vite-todo-app/
+├── public/                # Static assets
+├── src/
+│   ├── components/        # Reusable components
+│   ├── App.jsx            # Main App
+│   └── main.jsx           # Entry point
+├── index.html
+├── README.md
+└── package.json
+
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/soumyap-dev/react-vite-todo-app.git
+
+# Navigate into the project directory
+cd react-vite-todo-app
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+The app will be available at [http://localhost:4000/]
+📌 Notes
+This is a beginner-friendly project ideal for learning and showcasing React fundamentals.
+
+No backend integration — all data is stored locally in the browser.
+
+📄 License
+This project is open source and available under the MIT License.
+👨‍💻 Author  
+Built with ❤️ by Soumya Ranjan Sarangi  
+• 🌐 [GitHub](https://github.com/soumyap-dev)  
+• 👨‍💼 [LinkedIn](https://www.linkedin.com/in/sr-soumya26)
+
+⭐ Support
+If you like this project, give it a ⭐ on GitHub — it really helps!
+
+
+---
+
+
+
+
