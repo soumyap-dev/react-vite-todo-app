@@ -62,11 +62,10 @@ No backend integration — all data is stored locally in the browser.
 
 📄 License
 This project is open source and available under the MIT License.
-👨‍💻 Author  
-Built with ❤️ by Soumya Ranjan Sarangi  
-• 🌐 [GitHub](https://github.com/soumyap-dev)  
-• 👨‍💼 [LinkedIn](https://www.linkedin.com/in/sr-soumya26)
-
+👨‍💻 Author
+Built with ❤️ by Soumya Ranjan Sarangi
+  •🔗 GitHub
+  •🔗 LinkedIn
 ⭐ Support
 If you like this project, give it a ⭐ on GitHub — it really helps!
 
